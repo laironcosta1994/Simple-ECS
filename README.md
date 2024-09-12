@@ -118,10 +118,6 @@ The project is commented well and should provide detailed explanation on using E
 
 ![](https://i.imgur.com/0gI59F1.gif)
 
-## Authors
-
-* **Akansh Divker** - *Project creation* - [AkanshDivker](https://github.com/AkanshDivker)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
